@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343909893257",
+    "project_id": "aventus-mt",
+    "storage_bucket": "aventus-mt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343909893257:android:a7bebfaa7d27982fc2b258",
+        "android_client_info": {
+          "package_name": "com.aventus.mt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDCRO-XTJBz4nIyhax32e4bjw24eUYOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
